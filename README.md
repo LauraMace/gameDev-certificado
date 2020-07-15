@@ -1,1 +1,1 @@
-# certificado da Imersao GameDev JavaScript - iframe & nome substituidos
+# certificado da Imersão Gamedev JavaScript
