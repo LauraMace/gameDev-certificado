@@ -48,7 +48,7 @@ body {
 .titulo {
   font-weight: bold;
   color: var(--blue);
-  font-size: 3.5rem;
+  font-size: 3.2rem;
   text-transform: uppercase;
 }
 
@@ -59,7 +59,7 @@ body {
 .aluno {
     color: var(--blue);
     font-size: 2rem;
-    font-weight: 300;
+    font-weight: 200;
     margin-bottom: 0.75rem;
 }
 
@@ -72,7 +72,7 @@ body {
 }
 
 iframe {
-  min-width: 666px;
+  min-width: 777px;
   height: 444px;
   margin-bottom: 0.4rem;
 }
@@ -80,7 +80,7 @@ iframe {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 1rem 1rem 0.5rem;
+  margin: 1rem 1rem 0.25rem;
 }
 
 .assinatura-container {
